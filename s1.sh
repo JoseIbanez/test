@@ -1,8 +1,7 @@
 #!/bin/bash
 
 
-$ver = "1.0"
-
+$ver = "2.0"
 
 echo $ver
 
